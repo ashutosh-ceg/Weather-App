@@ -1,0 +1,34 @@
+unsplash.com for free image.
+
+https://home.openweathermap.org/users/sign_in for free api 
+
+ Default generated key
+ 
+Key 0583d4915a970e1db3b16d12a6879668 
+
+testAPI c429ba4cf9734f3e3e14d1447ceb4e9b 
+
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+api.openweathermap.org/data/2.5/weather?q=london&appid=c429ba4cf9734f3e3e14d1447ceb4e9b 
+
+
+https://api.openweathermap.org/data/2.5/weather?q=london&appid=c429ba4cf9734f3e3e14d1447ceb4e9b
+
+install chrome extension awesome json fpr view the json tree
+
+
+let is use as local variable.
+var is used as global variable.
+const is use for constent.
+
+
+
+
+e.target.value  return the value of the element.
+
+
+
+upto 26.9 minute
+
+http://openweathermap.org/img/wn/10d@2x.png
